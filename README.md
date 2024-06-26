@@ -1,1 +1,1 @@
-# Probabilistic-B-Tree-Variant
+# Probabilistic B Tree Variant
