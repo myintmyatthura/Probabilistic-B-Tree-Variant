@@ -13,17 +13,17 @@ lookups over retrievals, making it the ideal choice for high-performance data-in
 
 **Features:**
 
-- An extremely space-efficient data structure 
-designed for massive databases
-- Written as modular functions to be integrated seemelessly
-into any project running in production.
-- Guranteed speed improvements and highly optimized for 
-look-up operations within databases.
-- One of the most space/memory efficient data structures
+- An extremely space-efficient data structure crafted for handling 
+massive databases.
+- Modular functions designed for seamless integration into any 
+production project.
+- Guaranteed speed enhancements and optimized for lightning-fast 
+database lookups.
+- One of the most innovative space/memory-efficient data structures 
 to exist.
-- Parallelized and multithreaded to improve run-time complexity
-off the paper.
-- Works out of the box for almost every project.
+- Parallelized and multithreaded to elevate runtime performance 
+beyond theoretical limits.
+- Ready to use out-of-the-box for virtually any project.
 
 ---
 
